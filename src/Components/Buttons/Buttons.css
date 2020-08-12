@@ -1,0 +1,37 @@
+.buttons,.Equals{
+  width: 80px;
+  height: 40px;
+  border: 1px solid black;
+  border-radius: 7px;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  cursor: pointer;
+}
+.operador{
+  width: 80px;
+  height: 40px;
+  border: 1px solid black;
+  border-radius: 7px;
+  margin: 7px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  background: orange;
+  cursor: pointer;
+}
+.Clearbuttons{
+  width: 200px;
+  height: 60px;
+  border: 1px solid black;
+  border-radius: 7px;
+  margin: 7px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  cursor: pointer;
+}
